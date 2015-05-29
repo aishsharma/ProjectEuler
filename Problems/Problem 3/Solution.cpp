@@ -18,11 +18,8 @@ int main() {
 		cout << "This number has no prime factors.";
 	}
 
-
 	cout << "\nPress any key to exit.";
-
 	cin.get();
-	return 0;
 }
 
 double getLPF(double num) {
